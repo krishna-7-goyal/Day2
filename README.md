@@ -7,6 +7,7 @@
  - Visualizing relationships (e.g., using pairplot, heatmap, etc.)
  - Statistical summaries and grouping
  - Feature-wise survival analysis
+ - this was all that was done
 
 ## File:
 - day2.ipynb: Main Jupyter notebook containing EDA on the Titanic dataset.
